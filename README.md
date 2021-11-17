@@ -13,6 +13,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 我生活工作在厦门
-- 👯 主力php,转型go中
+- 👯 主力php,转型go中   
 - 🏃🏻‍♂️ [我的跑步](https://luckyyyyyyy.github.io/running_page/)
-
+- 🤔 [我的博客](https://github.com/Luckyyyyyyy/phh-blog)
